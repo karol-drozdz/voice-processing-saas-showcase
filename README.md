@@ -1,6 +1,7 @@
 # Voice Clip – AI Voice Message Summarizer
 
-<img width="1877" height="895" alt="image" src="https://github.com/user-attachments/assets/2e1e5525-8506-4fe1-9afd-b799b6d98261" />
+<img width="1877" height="895" alt="voice-clip-hero" src="https://github.com/user-attachments/assets/845b1aa8-16c2-4def-b548-ff8c430d6d70" />
+
 
 [**Live (voiceclip.eu)**](https://voiceclip.eu)
 
